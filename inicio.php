@@ -1,0 +1,1 @@
+Este es un archivo php y editado con un block de notas.
